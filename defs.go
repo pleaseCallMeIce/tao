@@ -32,6 +32,14 @@ var (
 	ErrServerClosed  = errors.New("server has been closed")
 )
 
+sdsdfsdfaf
+
+asdf
+sadf
+
+
+
+
 // definitions about some constants.
 const (
 	MaxConnections    = 1000
