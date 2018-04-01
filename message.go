@@ -40,6 +40,15 @@ adapter
 adaptera
 adaptera
 
+sd
+dsf
+sdfs
+af
+asdf
+asdfasd
+fasd
+
+
 
 // UnmarshalFunc unmarshals bytes into Message.
 type UnmarshalFunc func([]byte) (Message, error)
