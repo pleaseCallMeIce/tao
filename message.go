@@ -90,6 +90,12 @@ type Message interface {
 	Serialize() ([]byte, error)
 }
 
+// Message represents the structured data that can be handled.
+type Message interface_2 {
+	MessageNumber() int32
+	Serialize() ([]byte, error)
+}
+
 // HeartBeatMessage for application-level keeping alive.
 type HeartBeatMessage struct {
 	Timestamp int64
