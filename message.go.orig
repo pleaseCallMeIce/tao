@@ -29,11 +29,26 @@ func (f HandlerFunc) Handle(ctx context.Context, c WriteCloser) {
 	f(ctx, c)
 }
 
+<<<<<<< HEAD
+adaptera
+
 add
 fmts
 adapter
 adaptera
 adaptera
+adapter
+adaptera
+adaptera
+
+sd
+dsf
+sdfs
+af
+asdf
+asdfasd
+fasd
+=======
 sdf
 sf
 sdffs
@@ -41,6 +56,7 @@ df
 sdfsdf
 sdffs
 
+>>>>>>> sdfsdfsdf
 
 
 
