@@ -29,6 +29,18 @@ func (f HandlerFunc) Handle(ctx context.Context, c WriteCloser) {
 	f(ctx, c)
 }
 
+adaptera
+
+add
+fmts
+adapter
+adaptera
+adaptera
+adapter
+adaptera
+adaptera
+
+
 // UnmarshalFunc unmarshals bytes into Message.
 type UnmarshalFunc func([]byte) (Message, error)
 
